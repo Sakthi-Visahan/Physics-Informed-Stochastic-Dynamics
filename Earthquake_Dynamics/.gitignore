@@ -1,0 +1,17 @@
+# OS generated files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments and Secrets
+venv/
+env/
+.env
+
+# VS Code settings (optional, but good practice)
+.vscode/
